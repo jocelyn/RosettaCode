@@ -62,6 +62,25 @@ feature {NONE} -- Initialization
 			print ("%N%NExecute SUBSTRING_EXAMPLE ...%N")
 			create {SUBSTRING_EXAMPLE} any.make
 
+			print ("%N%NExecute LEAP_YEAR_EXAMPLE ...%N")
+			create {LEAP_YEAR_EXAMPLE} any.make
+
+			print ("%N%NExecute STRING_CASE_EXAMPLE ...%N")
+			create {STRING_CASE_EXAMPLE} any.make
+
+			print ("%N%NExecute TOKENIZE_STRING_EXAMPLE ...%N")
+			create {TOKENIZE_STRING_EXAMPLE} any.make
+
+			print ("%N%NExecute EVEN_ODD_EXAMPLE ...%N")
+			create {EVEN_ODD_EXAMPLE} any.make
+
+			print ("%N%NExecute GCD_EXAMPLE ...%N")
+			create {GCD_EXAMPLE} any.make
+
+			print ("%N%NExecute FORMATED_NUMERIC_OUTPUT_EXAMPLE ...%N")
+			create {FORMATED_NUMERIC_OUTPUT_EXAMPLE} any.make
+
+
 		end
 
 end
